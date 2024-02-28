@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.23.9"
+  },
+  "dependencies": {
+    "core-js": "^3.36.0"
+  }
+}
